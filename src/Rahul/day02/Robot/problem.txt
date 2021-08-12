@@ -1,0 +1,3 @@
+Write a class for handling your robot to go in a straight line
+If robot take left right or back treat this as an abnormal condition
+Use custom exception and say “stop” if violating straight line path

@@ -1,0 +1,6 @@
+Use Case :
+
+An online retail shop has inventory system where they want to store products with their respective categories.
+User can online shopping by searching product using their category, name and buy them.
+If product is not available show a message to user out of stock.Clearly define entities and use all concepts we discussed today.
+

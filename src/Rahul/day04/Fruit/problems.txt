@@ -1,0 +1,7 @@
+Exercise:
+A family has a fruit of basket of 3 types fruits.
+The basket has a capacity to add 1 more type fruit up
+to max 5 for each type. Family want to distribute
+these fruits in their children on first come first basis.
+Write a program to demonstrate this and use
+appropriate collections type.
